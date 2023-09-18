@@ -14,4 +14,4 @@ google fonts: https://fonts.googleapis.com/css?family=Open+Sans&display=swap
 
 ## Website
 https://muhammadkhabbaz.github.io/Day-Scheduler/
-![alt text](Assets/Images/Screen Shot 2023-09-18 at 12.24.20 pm.png)
+![alt text](Assets/Images/screenshot.png)
